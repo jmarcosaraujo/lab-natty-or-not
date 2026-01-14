@@ -1,57 +1,95 @@
 # 🌿 EcoVision Interativo: Sustentabilidade em Ação
 
+![EcoVision Banner](https://via.placeholder.com/1200x300.png?text=EcoVision+Interativo+%F0%9F%8C%BF)
+
+> **Um guia educativo e interativo sobre sustentabilidade, combinando IA, design e automação.**  
+
+---
+
 ## 📒 Descrição
-Projeto que combina **IAs Generativas, automação e design interativo** para criar um guia educacional sobre sustentabilidade.  
-O EcoVision Interativo vai além de um e-book: ele oferece **conteúdos interativos, ilustrações dinâmicas e links acionáveis**, permitindo que o leitor explore práticas ecológicas de forma imersiva.
+EcoVision Interativo vai além de um e-book tradicional:  
+- Conteúdos interativos com quizzes e links clicáveis  
+- Ilustrações dinâmicas geradas por IA  
+- Experiência de aprendizado imersiva e envolvente  
+
+![Exemplo Visual](https://via.placeholder.com/600x300.png?text=Exemplo+de+Ilustração+IA)
 
 ---
 
 ## 🤖 Tecnologias Utilizadas
-- **[ChatGPT](https://chat.openai.com)**: criação de narrativas, quizzes interativos e textos educativos.  
-- **[MidJourney](https://www.midjourney.com/)**: geração de imagens artísticas, ilustrações e infográficos.  
-- **[Python](https://www.python.org/)**: automação para combinar imagens, textos e gerar PDFs interativos.  
-- **[Canva](https://www.canva.com/)**: layout final, botões clicáveis e design visual.  
-- **[Figma](https://www.figma.com/)**: prototipagem de interações digitais e animações leves.
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00C2A0?style=for-the-badge&logo=openai&logoColor=white)
-![MidJourney](https://img.shields.io/badge/MidJourney-FF6F61?style=for-the-badge&logo=artstation&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+
+| Ferramenta | Função | Badge |
+|-----------|-------|-------|
+| ChatGPT | Textos educativos e quizzes | ![ChatGPT](https://img.shields.io/badge/ChatGPT-00C2A0?style=for-the-badge&logo=openai&logoColor=white) |
+| MidJourney | Ilustrações e infográficos | ![MidJourney](https://img.shields.io/badge/MidJourney-FF6F61?style=for-the-badge&logo=artstation&logoColor=white) |
+| Python | Automação e PDFs interativos | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| Canva | Layout e botões clicáveis | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
+| Figma | Prototipagem e animações leves | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+
+</div>
 
 ---
 
 ## 🧐 Processo de Criação
-1. **Planejamento Interativo:** definição de tópicos, quizzes, links clicáveis e mapas conceituais.  
-2. **Geração de Conteúdo:**  
-   - Textos e quizzes educativos gerados pelo ChatGPT.  
-   - Ilustrações e infográficos produzidos com MidJourney.  
-3. **Automação e Integração:** scripts em Python para gerar PDFs interativos e combinar imagens e textos de forma dinâmica.  
-4. **Design e Layout Interativo:** Canva e Figma para criar botões, links, animações leves e prototipagem digital.  
-5. **Teste de Interatividade:** validação de links, quizzes e fluxo de leitura para garantir experiência envolvente.
+
+<div align="center">
+
+**1️⃣ Planejamento Interativo**  
+🗂️ Tópicos, quizzes e mapas conceituais  
+
+**2️⃣ Geração de Conteúdo**  
+✍️ Textos educativos com ChatGPT  
+🎨 Ilustrações com MidJourney  
+
+**3️⃣ Automação e Integração**  
+🤖 Python para combinar textos, imagens e gerar PDFs interativos  
+
+**4️⃣ Design e Layout Interativo**  
+🎛️ Canva e Figma para botões, links e animações leves  
+
+**5️⃣ Teste de Interatividade**  
+✅ Validação de quizzes, links e fluxo de leitura  
+
+</div>
 
 ---
 
 ## 🚀 Resultados
-- **E-book interativo** pronto para web ou PDF, com links acionáveis e quizzes educativos.  
-- **Coleção visual dinâmica** de imagens e infográficos sobre sustentabilidade.  
-- **Experiência de aprendizado imersiva**, conectando conteúdo educativo, arte e interatividade.  
 
-[📖 Acesse o EcoVision Interativo Aqui](#)
+<div align="center">
+
+- 📘 **E-book interativo** pronto para web ou PDF  
+- 🖼️ **Coleção visual dinâmica** de imagens e infográficos  
+- 🌐 **Experiência imersiva**, conectando arte e educação  
+
+![Exemplo Interativo](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)  
+
+[🔗 Acesse o EcoVision Interativo Aqui](#)  
+
+</div>
 
 ---
 
 ## 💭 Reflexão
-Criar o EcoVision Interativo demonstrou que:  
-- A combinação de **IA generativa + design interativo** transforma materiais educativos em experiências engajantes.  
-- Automatizar o processo de geração de conteúdo economiza tempo e mantém alta qualidade.  
-- A interatividade ajuda a **conectar o público à mensagem ecológica**, tornando a aprendizagem mais memorável.
+
+- A **IA generativa + design interativo** transforma materiais educativos em experiências envolventes  
+- Automatizar processos economiza tempo e mantém alta qualidade  
+- Interatividade conecta o público à mensagem ecológica de forma memorável  
 
 ---
 
 ### 🔗 Links Úteis
-- [Repositório GitHub](#)  
-- [ChatGPT](https://chat.openai.com/)  
-- [MidJourney](https://www.midjourney.com/)  
-- [Canva](https://www.canva.com/)  
-- [Figma](https://www.figma.com/)
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)  
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-00C2A0?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)  
+[![MidJourney](https://img.shields.io/badge/MidJourney-FF6F61?style=for-the-badge&logo=artstation&logoColor=white)](https://www.midjourney.com/)  
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)  
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)  
+
+</div>
+
+![License](https://img.shields.io/badge/License-MIT-green)
