@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carros Anos 80 e 90</title>
+    <link rel="stylesheet" href="./style.css"> </head>
+<body>
+
+    <header>
+        <h1>Ícones Automotivos: Ouro dos Anos 80 e 90</h1>
+        <p>Uma viagem nostálgica pelas 10 máquinas que definiram uma geração.</p>
+    </header>
+
+    <main>
+        <div class="tabs">
+            <button class="tab-button active" data-car="ferrari">Ferrari F40</button>
+            <button class="tab-button" data-car="lancer">Mitsubishi Lancer EVO</button>
+            <button class="tab-button" data-car="golf">VW Golf GTI (Mk2)</button>
+            <button class="tab-button" data-car="delorean">DeLorean DMC-12</button>
+            <button class="tab-button" data-car="m3">BMW M3 (E30)</button>
+            <button class="tab-button" data-car="nsx">Honda NSX</button>
+            <button class="tab-button" data-car="mustang">Ford Mustang SVT Cobra</button>
+            <button class="tab-button" data-car="porsche">Porsche 959</button>
+            <button class="tab-button" data-car="supra">Toyota Supra (Mk4)</button>
+            <button class="tab-button" data-car="cosworth">Sierra Cosworth</button>
+        </div>
+
+        <div id="car-content" class="car-display">
+            </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 - Projeto Ícones Automotivos | Criado com HTML, CSS e JS</p>
+    </footer>
+
+    <script src="./script.js"></script> </body>
+</html>
