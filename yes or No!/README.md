@@ -1,9 +1,9 @@
-🚗 Natty or Not – Iconic Cars of the 80s and 90s
-📒 Description
+## 🚗 Natty or Not – Iconic Cars of the 80s and 90s
+# 📒 Description
 
 Study project that uses Artificial Intelligence to develop a web page showcasing iconic cars from the 1980s and 1990s.
 
-🤖 Technologies
+## 🤖 Technologies
 
 HTML, CSS, and JavaScript
 
@@ -13,14 +13,15 @@ Google Gemini (vehicle descriptions)
 
 Microsoft Copilot (code assistance and review)
 
-🧐 Process
+## 🧐 Process
 
 Creation of a blog-style web page highlighting 10 iconic vehicles from the 80s and 90s, using AI tools to support code structure, functionality, and content generation.
 
-🚀 Outcome
+## 🚀 Outcome
 
 A simple, responsive, and functional web page displaying images and short descriptions of the selected vehicles.
 
-💭 Reflection
+## 💭 Reflection
+
 
 Artificial Intelligence is no longer optional in modern software development. Its strategic use for automation, code support, and content creation is a key differentiator in today’s job market.
